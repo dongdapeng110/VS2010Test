@@ -47,5 +47,7 @@ int main(void)
 		Sleep(1000);
 	}
 
+	/* Nothing */
+
 	return 0;
 }
